@@ -1,0 +1,6 @@
+<?php
+
+    $protokol     = 'http'; 
+
+    $redirectView = '';
+            
